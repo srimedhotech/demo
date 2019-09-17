@@ -2,7 +2,7 @@ from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse
 # Create your views here.
 #from django.template import loader
-
+#This is a new comment
 from .models import Question
 
 
